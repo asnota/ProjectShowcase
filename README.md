@@ -23,7 +23,7 @@ The application helps the user to correct gesture errors while conducting using 
 
 User opens the application and starts performing a conduction of a piece of music in a standing position in front of a webcam. The pretrained model analyses the gesture movements and performs errors detection. The deviation from the correct movements are marked with red lines. User looks at movement errors displayed on the screen and corrects them in a real-time mode.
 
-In order to install the application, please download a zip or clone it via Git and store it to your local directory. Perform all necessary dependencies installation and run it on a local server.
+In order to install the application, please download a zip or clone it via Git and store it to your local directory. Perform all necessary dependencies installation and run it on a local server with the command python app.py
 
 ## Contributing
 
